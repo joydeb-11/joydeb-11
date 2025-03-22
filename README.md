@@ -1,16 +1,30 @@
-## Hi there 👋
+<!-- README.md -->
 
-<!--
-**joydeb-11/joydeb-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm joydeb 👋
 
-Here are some ideas to get you started:
+I'm a passionate Python developer who loves crafting solutions and automating tasks using Python. I enjoy building projects that solve real-world problems and am always eager to learn new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+
+- **Programming Languages:** Python
+- **Web Development:** Flask, Django *(if applicable)*
+- **Data Science & Visualization:** Pandas, NumPy, Matplotlib *(if applicable)*
+- **Version Control:** Git, GitHub
+
+## 🔭 Current Projects
+
+
+
+## 📫 How to Reach Me
+
+- **GitHub:** [joydeb](https://github.com/joydeb)
+- **LinkedIn:** [joydeb](https://www.linkedin.com/in/joydeb)
+- **Email:** your.email@example.com
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joydeb&show_icons=true&theme=radical)
+
+---
+
+Feel free to explore my repositories and get in touch if you’d like to collaborate or chat about coding, Python, and tech!
