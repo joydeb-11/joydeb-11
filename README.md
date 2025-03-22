@@ -7,8 +7,8 @@ I'm a passionate Python developer who loves crafting solutions and automating ta
 ## 🚀 Technologies & Tools
 
 - **Programming Languages:** Python
-- **Web Development:** Flask, Django *(if applicable)*
-- **Data Science & Visualization:** Pandas, NumPy, Matplotlib *(if applicable)*
+- **Web Development:** Flask, Django 
+- **Data Science & Visualization:** Pandas, NumPy, Matplotlib 
 - **Version Control:** Git, GitHub
 
 ## 🔭 Current Projects
